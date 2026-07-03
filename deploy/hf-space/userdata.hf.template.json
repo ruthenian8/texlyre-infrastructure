@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "collab-signaling-servers": "wss://<space-subdomain>.hf.space/ywebrtc/",
+    "file-sync-server-url": "https://<space-subdomain>.hf.space/filepizza",
+    "latex-texlive-endpoint": "https://<space-subdomain>.hf.space/api/texlive"
+  }
+}
